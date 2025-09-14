@@ -1,7 +1,7 @@
 ## Ooi eu sou o Gustavo Boing 👋
 
 - 🔭 Buscando estágio backend
-- 🌱 Estudando python e C
+- 🌱 Estudando python e Java
 
 <div align="center">
   <a href="https://github.com/GustavoBoing">
