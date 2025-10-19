@@ -48,15 +48,6 @@ Atualmente estudo **Desenvolvimento Backend**, com foco em **Java** e **Python**
   </a>
 </div>
 
----
-
-### ⚡ Curiosidades
-- 💬 Gosto de entender sistemas complexos e otimizar códigos.  
-- 🎮 Curto jogos de raciocínio e desafios de lógica.  
-- ☕ Café é essencial no processo de desenvolvimento.  
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gustavoboing&color=blueviolet&style=flat-square" alt="Visualizações de perfil"/>
 </p>
