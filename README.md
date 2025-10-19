@@ -43,11 +43,7 @@ Atualmente estudo **Desenvolvimento Backend**, com foco em **Java** e **Python**
   <a href="https://www.linkedin.com/in/gustavo-boing-72a103272/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:gustavoboing15@gmail.com">
+  <a href="mailto:gustavoboiing@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gustavoboing&color=blueviolet&style=flat-square" alt="Visualizações de perfil"/>
-</p>
