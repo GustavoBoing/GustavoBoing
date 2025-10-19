@@ -1,19 +1,62 @@
-## Ooi eu sou o Gustavo Boing 👋
+<h1 align="center">👋 Oi, eu sou o Gustavo Boing</h1>
 
-- 🔭 Buscando estágio backend
-- 🌱 Estudando python e Java
+<p align="center">
+  🎯 <strong>Buscando estágio backend</strong><br>
+  🌱 <strong>Estudando Python e Java</strong><br>
+  📍 Sorocaba - SP, Brasil
+</p>
 
+---
+
+### 🚀 Sobre mim
+Sou apaixonado por tecnologia e gosto de entender como as coisas funcionam “por baixo dos panos”.  
+Atualmente estudo **Desenvolvimento Backend**, com foco em **Java** e **Python**, além de sempre buscar boas práticas de código e aprendizado constante.
+
+> 💡 "A melhor forma de prever o futuro é criá-lo."  
+
+---
+
+### 🧠 Tecnologias que estou aprendendo
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+
+---
+
+### 📊 Minhas estatísticas no GitHub
 <div align="center">
   <a href="https://github.com/GustavoBoing">
-  <img height="190em" width="49%" src="https://github-readme-stats.vercel.app/api?username=gustavoboing&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="190em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoboing&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
+    <img height="190em" width="49%" src="https://github-readme-stats.vercel.app/api?username=gustavoboing&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="190em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoboing&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
+  </a>
 </div>
+
+---
+
+### 🌐 Onde me encontrar
+<div align="center">
+  <a href="https://www.linkedin.com/in/gustavo-boing-72a103272/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:gustavoboing15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+
+---
+
+### ⚡ Curiosidades
+- 💬 Gosto de entender sistemas complexos e otimizar códigos.  
+- 🎮 Curto jogos de raciocínio e desafios de lógica.  
+- ☕ Café é essencial no processo de desenvolvimento.  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gustavoboing&color=blueviolet&style=flat-square" alt="Visualizações de perfil"/>
+</p>
