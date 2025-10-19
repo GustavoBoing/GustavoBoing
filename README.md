@@ -37,15 +37,15 @@ Atualmente estudo **Desenvolvimento Backend**, com foco em **Java** e **Python**
 ### 📊 Minhas estatísticas no GitHub
 <div align="center">
   <a href="https://github.com/GustavoBoing">
-    <img height="190em" width="49%" src="https://github-readme-stats.vercel.app/api?username=gustavoboing&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-    <img height="190em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoboing&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
+    <img height="190em" width="35%" src="https://github-readme-stats.vercel.app/api?username=gustavoboing&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="190em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoboing&layout=compact&langs_count=7&theme=dark&cache_seconds=1800"/>
   </a>
 </div>
 
 ---
 
 ### 🌐 Onde me encontrar
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/gustavo-boing-72a103272/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
