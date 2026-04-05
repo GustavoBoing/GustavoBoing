@@ -9,8 +9,9 @@
 ---
 
 ### 🚀 Sobre mim
-Sou apaixonado por tecnologia e gosto de entender como as coisas funcionam “por baixo dos panos”.  
-Atualmente estudo **Desenvolvimento Backend**, com foco em **Java** e **Python**, além de sempre buscar boas práticas de código e aprendizado constante.
+Desenvolvedor em formação com foco em Backend utilizando Java e Python.
+Experiência em projetos acadêmicos e pessoais envolvendo orientação a objetos, APIs, automação e lógica de programação.
+Buscando oportunidade de estágio para evoluir em desenvolvimento backend e boas práticas de software.
 
 > 💡 "A melhor forma de prever o futuro é criá-lo."  
 
