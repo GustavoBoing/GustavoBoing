@@ -10,9 +10,7 @@
 ---
 
 ### 🚀 Sobre mim
-Desenvolvedor em formação com foco em Backend utilizando Java e Python.
-Experiência em projetos acadêmicos e pessoais envolvendo orientação a objetos, APIs, automação e lógica de programação.
-Buscando oportunidade de estágio para evoluir em desenvolvimento backend e boas práticas de software.
+Desenvolvedor em formação com foco em Backend utilizando Java e Python. Tenho experiência em projetos acadêmicos e pessoais envolvendo orientação a objetos, APIs REST, automação e lógica de programação. Atualmente busco oportunidade de estágio para evoluir em desenvolvimento backend, arquitetura de software e boas práticas de código.
 
 > 💡 "A melhor forma de prever o futuro é criá-lo."  
 
@@ -22,6 +20,16 @@ Buscando oportunidade de estágio para evoluir em desenvolvimento backend e boas
 - Java + Spring Boot
 - Python + APIs
 - SQL e modelagem de dados
+
+---
+
+📌 Experiência prática com:
+
+- APIs REST com Java + Spring Boot
+- APIs com Python + Flask
+- CRUDs com persistência de dados
+- Programação orientada a objetos
+- Integração com banco de dados SQL
 
 ---
 
