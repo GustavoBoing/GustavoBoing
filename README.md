@@ -17,6 +17,13 @@ Buscando oportunidade de estágio para evoluir em desenvolvimento backend e boas
 
 ---
 
+📌 Atualmente estudando:
+- Java + Spring Boot
+- Python + APIs
+- SQL e modelagem de dados
+
+---
+
 ### 🧠 Tecnologias que tenho convívio
 
 **Foco principal:**  
