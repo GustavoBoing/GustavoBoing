@@ -2,6 +2,7 @@
 
 <p align="left">
   🎯 <strong>Buscando estágio backend</strong><br>
+  🎓 <strong>Estudante de Engenharia da Computação com foco em desenvolvimento Backend</strong>strong><br>
   🌱 <strong>Estudando Python e Java</strong><br>
   📍 Sorocaba - SP, Brasil
 </p>
